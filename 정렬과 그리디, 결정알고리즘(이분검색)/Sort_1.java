@@ -10,7 +10,9 @@ public class Sort_1 {
     }
 
     public static int[] MySolution(int[] is){
+        // 두개의 자료를 비교할때 작은 값의 index
         int idx = 0;
+        // 스왑할때 필요한 변수
         int temp = 0;
         for(int i=0;i<is.length;i++){
             idx = i;
