@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/자료구조(스택, 큐)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/재귀함수와 완전탐색(DFS깊이우선탐색)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/정렬과 그리디, 결정알고리즘(이분검색)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/그래프와 탐색(DFS, BFS- 너비우선탐색)" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
